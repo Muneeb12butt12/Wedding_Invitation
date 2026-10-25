@@ -17,6 +17,7 @@ const hosts = [
     { name: "Mr & Mrs Yasir Butt" },
     { name: "Mr & Mrs Abdullah Butt" },
     { name: "Mr & Mrs Umer Butt"},
+    { name: "Mr & Mrs Hassan Ali Butt"},
     { name: "Usman Butt"},
     { name: "Maaz Butt"},
     { name: "Sam Butt"},
